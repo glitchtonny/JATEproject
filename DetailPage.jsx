@@ -83,9 +83,9 @@ console.log(type)
             <h2>Amenities</h2>
           <ol>
             <li>Master Ensuite</li>
-            <li>SWimming pool</li>
+            <li>Swimming pool</li>
             <li>Parking</li>
-            <li>pets Allowed</li>
+            <li>Pets Allowed</li>
 
           </ol>
       </div>
