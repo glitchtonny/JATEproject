@@ -7,7 +7,7 @@ const AboutPage = () => {
   const houses = [
     {
       name: 'Cozy Cottage',
-      description: 'A charming cottage in the countryside.',
+      description: 'A charming cottage in the countryside in huston.',
       price: 150000,
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
     },
@@ -24,31 +24,31 @@ const AboutPage = () => {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
     },
     {
-        name: 'Cozy Cottage',
-        description: 'A charming cottage in the countryside.',
+        name: 'Green cottage',
+        description: 'A charming cottage in the countryside in huston.',
         price: 150000,
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
       },
       {
-        name: 'Modern Loft',
+        name: 'Country House',
         description: 'A sleek and stylish loft in the city center. a charming cottage',
         price: 250000,
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
       },
       {
-        name: 'Beach House',
+        name: 'Huston Loft',
         description: 'A luxurious beachfront property with stunning views.',
         price: 500000,
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
       },
       {
-            name: 'Cozy Cottage',
-            description: 'A charming cottage in the countryside.',
+            name: 'Breezy Cottage',
+            description: 'A charming cottage in the countryside in huston.',
             price: 150000,
             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
       },
       {
-            name: 'Modern Loft',
+            name: 'Glow House',
             description: 'A sleek and stylish loft in the city center. a charming cottage',
             price: 250000,
             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
@@ -56,6 +56,24 @@ const AboutPage = () => {
       {
             name: 'Beach House',
             description: 'A luxurious beachfront property with stunning views.',
+            price: 500000,
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
+      },
+      {
+            name: 'Paradise Loft',
+            description: 'A charming cottage in the countryside in huston.',
+            price: 150000,
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
+      },
+      {
+            name: 'Eden Ville',
+            description: 'A sleek and stylish loft in the city center. a charming cottage',
+            price: 250000,
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99t_8bQSCEimMqBrecbl4pHDAy0xGECIITQ&s'
+      },
+      {
+            name: 'Stamet House',
+            description: 'A luxurious beachfront property with stunning views in huston.',
             price: 500000,
             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
       }

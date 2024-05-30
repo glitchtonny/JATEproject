@@ -16,7 +16,7 @@ const HouseCard = ({ house }) => {
 
 const styles = {
   card: {
-    border: '2px solid black',
+    border: '3px solid black',
     borderRadius: '15px',
     padding: '20px',
     marginBottom: '20px',
