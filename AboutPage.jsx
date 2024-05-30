@@ -73,7 +73,7 @@ const AboutPage = () => {
       },
       {
             name: 'Stamet House',
-            description: 'A luxurious beachfront property with stunning views in huston.',
+            description: 'A luxurious beachfront property with stunning views.',
             price: 500000,
             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tDPx5DO4sjWLGGevXgPqujPEyrW66cRuQkVHohXojaRaI1T5-9ECCebajbykIKGs2eI&usqp=CAU'
       }
